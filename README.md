@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RenanReinecke
-- 🌱 I’m currently learning Computer Science, Javascript and Front-end.
+- 🌱 I’m currently learning Computer Science, Python and Big Data.
 - 🌎I'm living in Brazil, Sao Paulo.
 <!---
 RenanReinecke/RenanReinecke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
